@@ -5,4 +5,4 @@ git tracks changes of files.
 
 Creating a new branch is quick and simple.
 switch to dev and commit.
-issue-101 need to be fixed.
+fix issue-101.
